@@ -5,7 +5,7 @@
  * This program Shows one led.
 */
 
-// setup
+// the setup
 basic.clearScreen()
 pins.digitalWritePin(DigitalPin.P16, 0)
 basic.showIcon(IconNames.Happy)
