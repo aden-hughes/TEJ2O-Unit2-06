@@ -2,9 +2,8 @@
  *
  * Created by: Aden Hughes
  * Created on: Feb 2026
- * This program Shows one led
+ * This program Shows one led.
 */
-
 
 // setup
 basic.clearScreen()
